@@ -34,10 +34,10 @@ We would like to thank the research group of Prof. Song Li at the College of Com
 If our work is helpful in your research, please cite this as follows.
 
 ```bash
-@article{Li2026SKANet,
+@article{Li2025SKANet,
     title={SKANet: Skip-Enhanced Kolmogorov-Arnold Network for Robust Cardiac Segmentation},
     author={Song Li and Shuaichao Du and Xiaofeng Li and AAAA},
-    journal={IEEE Transactions on Neural Networks and Learning Systems},
-    year={2026}
+    journal={Under Review},
+    year={2025}
 }
 ```
