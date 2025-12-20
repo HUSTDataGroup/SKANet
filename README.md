@@ -27,12 +27,3 @@ Shuaichao Du: [2420410171@stu.hrbust.edu.cn](2420410171@stu.hrbust.edu.cn)
 ## 🛡️ License
 This project is under the Apache-2.0 license. See LICENSE for details.
 
-## 🙏 Acknowledgement
-
-
-## 📝 Citation
-If our work is helpful in your research, please cite this as follows.
-
-```bash
-
-```
