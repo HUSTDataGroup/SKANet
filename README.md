@@ -1,6 +1,6 @@
-# SKANet: Skip-Enhanced Kolmogorov-Arnold Network for Robust Cardiac Segmentation
+# Structure-Preserving Kolmogorov-Arnold Network with Anatomical Priors for Cardiac Segmentationn
 
-This repository holds the official implementation of the paper: **SKANet: Skip-Enhanced Kolmogorov-Arnold Network for Robust Cardiac Segmentation**.
+This repository holds the official implementation of the paper: **Structure-Preserving Kolmogorov-Arnold Network with Anatomical Priors for Cardiac Segmentation**.
 
 ## 🚀 Getting Started
 
