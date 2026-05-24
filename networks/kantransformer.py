@@ -93,8 +93,8 @@ class KAN(nn.Module):
         self.act2 = KAT_Group(mode=act_init, device=device)
         self.fc2 = linear_layer(hidden_features, out_features, bias=bias[1])
         self.gamma = nn.Parameter(torch.ones(hidden_features)) 
-        self.p_logit1 = nn.Parameter(torch.tensor([0.0])) 
-        self.p_logit2 = nn.Parameter(torch.tensor([0.0]))
+        self.p_logit1 = nn.Parameter(torch.tensor([-2.197])) 
+        self.p_logit2 = nn.Parameter(torch.tensor([-2.197]))
 
     def forward(self, x):
         x = self.act1(x)
