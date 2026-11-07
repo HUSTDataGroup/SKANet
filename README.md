@@ -29,7 +29,7 @@ Cardiac Magnetic Resonance imaging provides comprehensive morphological and func
 <!-- Upload your architecture figure to figures/SKANet_framework.png. -->
 
 <p align="center">
-  <img src="figures/SKANet_framework.png" alt="Overview of the proposed SKANet" width="100%">
+  <img src="figures/SKANet.jpg" alt="Overview of the proposed SKANet" width="100%">
 </p>
 
 <p align="center">
